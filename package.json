@@ -12,7 +12,11 @@
     "express",
     "node"
   ],
-  "author": "Bryan Pereyra",
+  "author": {
+    "name": "Bryan Pereyra",
+    "email": "brp2196@gmail.com",
+    "url": "https://brpereyra.github.io"
+  },
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^9.0.0",
