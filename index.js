@@ -1,6 +1,7 @@
 const express = require('express');
 const morgan = require('morgan');
 
+// config file and load env variables
 const config = require('./app/config');
 // main routes
 const indexRoutes = require('./app/routes/index.routes');
