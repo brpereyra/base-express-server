@@ -1,0 +1,28 @@
+{
+  "name": "base_server",
+  "version": "0.0.1",
+  "description": "servidor base para proyectos express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "server",
+    "express",
+    "node"
+  ],
+  "author": "Bryan Pereyra",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^9.0.0",
+    "@hapi/joi": "^17.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
