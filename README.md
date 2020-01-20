@@ -4,9 +4,17 @@ Servidor con configuraciones base para iniciar un nuevo proyecto express en segu
 
 ## Initial steps
 
-Modo desarrollo ``npm run dev ``
+install dependencies  ``npm install``
 
-Modo normal ``npm start``
+Run Mode: 
+
+Modo desarrollo 
+
+``npm run dev ``
+
+Modo normal 
+
+``npm start``
 
 
 ## Running test
