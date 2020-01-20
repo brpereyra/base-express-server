@@ -19,4 +19,4 @@ Modo normal
 
 ## Running test
 For the execution of the tests
-`` npm tests``
+``npm test``
