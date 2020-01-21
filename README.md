@@ -10,7 +10,7 @@ Run Mode:
 
 Modo desarrollo 
 
-``npm run dev ``
+``npm run dev``
 
 Modo normal 
 
